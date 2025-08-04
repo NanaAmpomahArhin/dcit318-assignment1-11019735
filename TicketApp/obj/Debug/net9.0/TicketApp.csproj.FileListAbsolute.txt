@@ -1,0 +1,15 @@
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\bin\Debug\net9.0\TicketApp.exe
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\bin\Debug\net9.0\TicketApp.deps.json
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\bin\Debug\net9.0\TicketApp.runtimeconfig.json
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\bin\Debug\net9.0\TicketApp.dll
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\bin\Debug\net9.0\TicketApp.pdb
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\TicketApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\TicketApp.AssemblyInfoInputs.cache
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\TicketApp.AssemblyInfo.cs
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\TicketApp.csproj.CoreCompileInputs.cache
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\TicketApp.sourcelink.json
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\TicketApp.dll
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\refint\TicketApp.dll
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\TicketApp.pdb
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\TicketApp.genruntimeconfig.cache
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\TicketApp\obj\Debug\net9.0\ref\TicketApp.dll
