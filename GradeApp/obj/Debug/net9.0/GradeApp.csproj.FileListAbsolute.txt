@@ -1,0 +1,15 @@
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\bin\Debug\net9.0\GradeApp.exe
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\bin\Debug\net9.0\GradeApp.deps.json
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\bin\Debug\net9.0\GradeApp.runtimeconfig.json
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\bin\Debug\net9.0\GradeApp.dll
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\bin\Debug\net9.0\GradeApp.pdb
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\GradeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\GradeApp.AssemblyInfoInputs.cache
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\GradeApp.AssemblyInfo.cs
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\GradeApp.csproj.CoreCompileInputs.cache
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\GradeApp.sourcelink.json
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\GradeApp.dll
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\refint\GradeApp.dll
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\GradeApp.pdb
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\GradeApp.genruntimeconfig.cache
+C:\Users\Nana Ampomah Arhin\Desktop\dcit318-assignment1-11019735\GradeApp\obj\Debug\net9.0\ref\GradeApp.dll
